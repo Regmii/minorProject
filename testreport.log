@@ -1,0 +1,981 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.20)  4 JUN 2024 21:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**testreport.tex
+(./testreport.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 1.
+
+(./KECReportFormat.tex (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen147
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks20
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks21
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count275
+\float@exts=\toks24
+\float@box=\box52
+\@float@everytoks=\toks25
+\@floatcapt=\box53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen158
+\captionmargin@=\dimen159
+\captionwidth=\dimen160
+\caption@tempdima=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+Package caption Info: float package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count278
+\Hy@pagecounter=\count279
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count280
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count281
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen166
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count282
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count283
+\c@Item=\count284
+\c@Hfootnote=\count285
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count286
+\c@bookmark@seq@number=\count287
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/acro/acro.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box54
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: acro 2022/01/27 v3.7 typeset acronyms and other abbreviations (CN)
+\g__acro_version_int=\count289
+\l__acro_tmpa_int=\count290
+\l__acro_tmpb_int=\count291
+\l__acro_tmpc_int=\count292
+\l__acro_tmpd_int=\count293
+Loading module `base' ...
+Loading module `interface' ...
+Loading module `aux' ...
+Loading module `properties' ...
+Loading module `acronyms' ...
+Loading module `formatting' ...
+Loading module `ppfixes' ...
+Loading module `tools' ...
+\l__acro_minimal_usage_int=\count294
+\l__acro_nest_int=\count295
+\g_acro_barrier_int=\count296
+\g_acro_barrier_total_int=\count297
+Loading module `commands' ...
+Loading module `templates' ...
+Loading module `list' ...
+Loading module `pages' ...
+\l__acro_pages_seq_threshold_int=\count298
+Loading module `locale' ...
+
+(/usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/01/04 v1.11 internationalization of LaTeX2e packages
+ (CN)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count299
+))
+Loading module `pdfsupport' ...
+Loading module `patch' ...
+Loading module `definitions' ...
+Loading module `upgrade' ...
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
+\bigstrutjot=\dimen169
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count300
+\multirow@dima=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen170
+\ttl@minus=\dimen171
+\ttl@toksa=\toks26
+\titlewidth=\dimen172
+\titlewidthlast=\dimen173
+\titlewidthfirst=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip57
+\enit@outerparindent=\dimen175
+\enit@toks=\toks27
+\enit@inbox=\box56
+\enit@count@id=\count301
+\enitdp@description=\count302
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen176
+\ar@mcellbox=\box57
+\extrarowheight=\dimen177
+\NC@list=\toks28
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box58
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 81.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
+1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (./testreport.aux)
+\openout1 = `testreport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=700.50687pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen178
+\scratchbox=\box59
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen179
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 81.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count309
+)
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
+
+(./testreport.out) (./testreport.out)
+\@outlinefile=\write3
+\openout3 = `testreport.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
+nary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 81.
+<images/logo.png, id=200, 102.3825pt x 102.3825pt>
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 83.
+(pdftex.def)             Requested size: 71.1361pt x 71.1361pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/logo.png>]pdfTeX 
+warning (ext4): destination with the same identifier (name{page.1}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.84 \KECtitlepage
+                   [1] [1
+
+] [2
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 106
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 106
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3
+
+]
+(./testreport.toc [4
+
+])
+\tf@toc=\write4
+\openout4 = `testreport.toc'.
+
+ [5] (./testreport.lof)
+\tf@lof=\write5
+\openout5 = `testreport.lof'.
+
+ [6
+
+] (./testreport.lot)
+\tf@lot=\write6
+\openout6 = `testreport.lot'.
+
+ [7
+
+]
+[8
+
+]
+Chapter 1.
+
+Overfull \hbox (11.56387pt too wide) in paragraph at lines 204--207
+\OT1/ptm/m/n/12 world-wide. The thy-roid gland, a vi-tal or-gan in our body, pl
+ays a cru-cial role in metabolism,
+ []
+
+<thyroid.png, id=363, 1505.625pt x 1003.75pt>
+File: thyroid.png Graphic file (type png)
+<use thyroid.png>
+Package pdftex.def Info: thyroid.png  used on input line 211.
+(pdftex.def)             Requested size: 376.40533pt x 250.93689pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.221 \newpage
+               [1
+
+] [2 <./thyroid.png (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [3]
+Underfull \hbox (badness 10000) in paragraph at lines 253--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--290
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+<ganttchart.png, id=383, 761.84625pt x 403.5075pt>
+File: ganttchart.png Graphic file (type png)
+<use ganttchart.png>
+Package pdftex.def Info: ganttchart.png  used on input line 310.
+(pdftex.def)             Requested size: 419.01674pt x 221.92981pt.
+
+Overfull \hbox (2.18385pt too wide) in paragraph at lines 310--311
+ [][] 
+ []
+
+[5 <./ganttchart.png>]
+Chapter 2.
+[6
+
+] [7]
+Chapter 3.
+<methodo.jpg, id=410, 1627.07875pt x 844.15375pt>
+File: methodo.jpg Graphic file (type jpg)
+<use methodo.jpg>
+Package pdftex.def Info: methodo.jpg  used on input line 348.
+(pdftex.def)             Requested size: 423.0305pt x 219.4748pt.
+
+Overfull \hbox (6.19762pt too wide) in paragraph at lines 348--349
+ [][] 
+ []
+
+<process.jpg, id=411, 793.96625pt x 71.26625pt>
+File: process.jpg Graphic file (type jpg)
+<use process.jpg>
+Package pdftex.def Info: process.jpg  used on input line 358.
+(pdftex.def)             Requested size: 396.98215pt x 35.63303pt.
+[8
+
+ <./methodo.jpg>] [9 <./process.jpg>]
+<decision_tree.png, id=422, 543.02875pt x 302.12875pt>
+File: decision_tree.png Graphic file (type png)
+<use decision_tree.png>
+Package pdftex.def Info: decision_tree.png  used on input line 375.
+(pdftex.def)             Requested size: 271.5137pt x 151.064pt.
+LaTeX Info: Symbol \textopenbullet not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 382.
+ [10 <./decision_tree.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
+ []
+
+LaTeX Info: Symbol \textopenbullet not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 393.
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--394
+
+ []
+
+<randomforest.png, id=431, 743.77875pt x 503.8825pt>
+File: randomforest.png Graphic file (type png)
+<use randomforest.png>
+Package pdftex.def Info: randomforest.png  used on input line 409.
+(pdftex.def)             Requested size: 371.88846pt x 251.94063pt.
+[11] [12 <./randomforest.png (PNG copy)>]
+<svm.png, id=450, 566.115pt x 278.03876pt>
+File: svm.png Graphic file (type png)
+<use svm.png>
+Package pdftex.def Info: svm.png  used on input line 427.
+(pdftex.def)             Requested size: 367.97038pt x 180.72304pt.
+ [13 <./svm.png>]
+<tree.png, id=456, 555.07375pt x 348.30125pt>
+File: tree.png Graphic file (type png)
+<use tree.png>
+Package pdftex.def Info: tree.png  used on input line 438.
+(pdftex.def)             Requested size: 360.79364pt x 226.39313pt.
+
+Overfull \hbox (12.1031pt too wide) in paragraph at lines 441--442
+ [][]\OT1/ptm/m/it/12 Application[]of[]Multilayer[]Perceptron[]MLP[]for[]Data[]
+Mining[]in[]Healthcare[]Operations 
+ []
+
+[14 <./tree.png>]
+Overfull \hbox (2.82594pt too wide) in paragraph at lines 455--456
+[]\OT1/ptm/m/n/12 MLP is im-ple-mented by im-port-ing MLP-Clas-si-fier from neu
+-ral[]network mod-ule in scikit-
+ []
+
+
+Overfull \hbox (1.43472pt too wide) in paragraph at lines 455--456
+\OT1/ptm/m/n/12 learn. The model is ini-tial-ized by al-low-ing 500 max-i-mum i
+t-er-a-tions fol-lowed by strength
+ []
+
+[15]
+<incremental.png, id=470, 295.8252pt x 159.4758pt>
+File: incremental.png Graphic file (type png)
+<use incremental.png>
+Package pdftex.def Info: incremental.png  used on input line 477.
+(pdftex.def)             Requested size: 295.82446pt x 159.4754pt.
+ [16] [17 <./incremental.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 488--504
+
+ []
+
+[18]
+<usecase.png, id=485, 1086.0575pt x 934.49126pt>
+File: usecase.png Graphic file (type png)
+<use usecase.png>
+Package pdftex.def Info: usecase.png  used on input line 512.
+(pdftex.def)             Requested size: 543.02742pt x 467.24449pt.
+<dfd1.jpg, id=486, 523.9575pt x 162.6075pt>
+File: dfd1.jpg Graphic file (type jpg)
+<use dfd1.jpg>
+Package pdftex.def Info: dfd1.jpg  used on input line 519.
+(pdftex.def)             Requested size: 392.96716pt x 121.95532pt.
+<class.png, id=487, 707.64375pt x 308.15125pt>
+File: class.png Graphic file (type png)
+<use class.png>
+Package pdftex.def Info: class.png  used on input line 525.
+(pdftex.def)             Requested size: 353.82101pt x 154.07524pt.
+ [19 <./usecase.png> <./dfd1.jpg>]
+<activity.jpg, id=492, 456.20438pt x 618.81187pt>
+File: activity.jpg Graphic file (type jpg)
+<use activity.jpg>
+Package pdftex.def Info: activity.jpg  used on input line 532.
+(pdftex.def)             Requested size: 228.10162pt x 309.40518pt.
+ [20 <./class.png> <./activity.jpg>]
+Chapter 4.
+<strip.png, id=497, 973.6375pt x 516.93124pt>
+File: strip.png Graphic file (type png)
+<use strip.png>
+Package pdftex.def Info: strip.png  used on input line 547.
+(pdftex.def)             Requested size: 426.78246pt x 284.53392pt.
+
+Overfull \hbox (9.94957pt too wide) in paragraph at lines 547--548
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21
+
+]
+<featureselect.png, id=503, 418.56375pt x 406.51875pt>
+File: featureselect.png Graphic file (type png)
+<use featureselect.png>
+Package pdftex.def Info: featureselect.png  used on input line 559.
+(pdftex.def)             Requested size: 313.92203pt x 304.8883pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./strip.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+[]|\OT1/ptm/m/n/12 Non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
+[]|\OT1/ptm/m/n/12 Female(F)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+[]|\OT1/ptm/m/n/12 Thyroid-stimulating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--582
+[]|\OT1/ptm/m/n/12 0.05 to 18.00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+[]|\OT1/ptm/m/n/12 2.00 to 600.00
+ []
+
+
+Overfull \hbox (9.56786pt too wide) in paragraph at lines 587--587
+[]|\OT1/ptm/m/n/12 Thyroid[]Surgery| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\OT1/ptm/m/n/12 Hyperthyroid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+\OT1/ptm/m/n/12 Hy-pothy-roid
+ []
+
+
+Overfull \hbox (4.51698pt too wide) in paragraph at lines 575--594
+[][] 
+ []
+
+[23 <./featureselect.png>] [24]
+<learning.png, id=521, 838.13126pt x 352.31625pt>
+File: learning.png Graphic file (type png)
+<use learning.png>
+Package pdftex.def Info: learning.png  used on input line 613.
+(pdftex.def)             Requested size: 419.0646pt x 176.15768pt.
+
+Overfull \hbox (2.23172pt too wide) in paragraph at lines 613--614
+ [][] 
+ []
+
+<learn.png, id=522, 838.13126pt x 352.31625pt>
+File: learn.png Graphic file (type png)
+<use learn.png>
+Package pdftex.def Info: learn.png  used on input line 620.
+(pdftex.def)             Requested size: 419.0646pt x 176.15768pt.
+
+Overfull \hbox (2.23172pt too wide) in paragraph at lines 620--621
+ [][] 
+ []
+
+
+Overfull \hbox (6.8741pt too wide) in paragraph at lines 629--629
+[]|\OT1/ptm/m/n/12 Accuracy(%)| 
+ []
+
+
+Overfull \hbox (5.74573pt too wide) in paragraph at lines 629--629
+[]|\OT1/ptm/m/n/12 Precision(%)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--630
+[]|\OT1/ptm/m/n/12 F1-
+ []
+
+<unbalanced.png, id=524, 1169.11781pt x 367.3725pt>
+File: unbalanced.png Graphic file (type png)
+<use unbalanced.png>
+Package pdftex.def Info: unbalanced.png  used on input line 643.
+(pdftex.def)             Requested size: 409.19737pt x 128.58229pt.
+[25 <./learning.png>] [26 <./learn.png>]
+<balanced.png, id=538, 1239.12938pt x 365.11406pt>
+File: balanced.png Graphic file (type png)
+<use balanced.png>
+Package pdftex.def Info: balanced.png  used on input line 649.
+(pdftex.def)             Requested size: 619.56317pt x 182.55658pt.
+<random.png, id=539, 532.99126pt x 417.05812pt>
+File: random.png Graphic file (type png)
+<use random.png>
+Package pdftex.def Info: random.png  used on input line 655.
+(pdftex.def)             Requested size: 266.49498pt x 208.52855pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<multil.png, id=540, 1763.08687pt x 787.44188pt>
+File: multil.png Graphic file (type png)
+<use multil.png>
+Package pdftex.def Info: multil.png  used on input line 661.
+(pdftex.def)             Requested size: 881.54129pt x 393.71997pt.
+
+Overfull \hbox (24.17987pt too wide) in paragraph at lines 661--662
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<ensemble.png, id=541, 1763.08687pt x 787.44188pt>
+File: ensemble.png Graphic file (type png)
+<use ensemble.png>
+Package pdftex.def Info: ensemble.png  used on input line 667.
+(pdftex.def)             Requested size: 793.38177pt x 354.34557pt.
+
+Overfull \hbox (9.95363pt too wide) in paragraph at lines 667--668
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
+
+ []
+
+[27 <./unbalanced.png> <./balanced.png>] [28 <./random.png> <./multil.png>]
+[29 <./ensemble.png>]
+Chapter 5.
+[30
+
+] (./testreport.bbl [31
+
+]
+Underfull \hbox (badness 4608) in paragraph at lines 96--99
+[]\OT1/ptm/m/n/12 Apr 2021. [On-line]. Avail-able: []$https : / / neptune . ai 
+/ blog /
+ []
+
+) [32]
+<result1.png, id=587, 963.6pt x 546.54187pt>
+File: result1.png Graphic file (type png)
+<use result1.png>
+Package pdftex.def Info: result1.png  used on input line 709.
+(pdftex.def)             Requested size: 385.43317pt x 218.61287pt.
+<result2.png, id=588, 944.02687pt x 545.78906pt>
+File: result2.png Graphic file (type png)
+<use result2.png>
+Package pdftex.def Info: result2.png  used on input line 715.
+(pdftex.def)             Requested size: 377.60405pt x 218.31175pt.
+<result3.png, id=589, 972.63374pt x 548.80031pt>
+File: result3.png Graphic file (type png)
+<use result3.png>
+Package pdftex.def Info: result3.png  used on input line 721.
+(pdftex.def)             Requested size: 389.0466pt x 219.51622pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<result4.png, id=590, 955.31906pt x 546.54187pt>
+File: result4.png Graphic file (type png)
+<use result4.png>
+Package pdftex.def Info: result4.png  used on input line 727.
+(pdftex.def)             Requested size: 382.12085pt x 218.61287pt.
+[33
+
+ <./result1.png> <./result2.png>] [34 <./result3.png> <./result4.png>]
+(./testreport.aux)
+Package rerunfilecheck Info: File `testreport.out' has not changed.
+(rerunfilecheck)             Checksum: 2FD0F9C00F7AF79F27254823C6480BAE;6757.
+ ) 
+Here is how much of TeX's memory you used:
+ 16474 strings out of 480204
+ 303766 string characters out of 5895010
+ 590836 words of memory out of 5000000
+ 34044 multiletter control sequences out of 15000+600000
+ 494296 words of font info for 75 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 75i,12n,82p,1167b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ada/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk
+>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/times/utmri8a.pfb>
+Output written on testreport.pdf (44 pages, 2288389 bytes).
+PDF statistics:
+ 692 PDF objects out of 1000 (max. 8388607)
+ 574 compressed objects within 6 object streams
+ 146 named destinations out of 1000 (max. 500000)
+ 528 words of extra memory for PDF output out of 10000 (max. 10000000)
+

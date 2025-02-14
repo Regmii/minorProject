@@ -1,0 +1,48 @@
+\acswitchoff 
+\contentsline {chapter}{Abstract}{i}{chapter*.2}%
+\contentsline {chapter}{List Of Figures}{iii}{chapter*.4}%
+\contentsline {chapter}{Abbreviations}{iv}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Application Scope}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Features}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}System Requirements}{4}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Development Requirements}{4}{subsection.1.6.1}%
+\contentsline {subsubsection}{Hardware Requirement(Minimum)}{4}{subsection.1.6.1}%
+\contentsline {subsubsection}{Software Requirement}{4}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Deployment Requirements}{4}{subsection.1.6.2}%
+\contentsline {subsubsection}{Hardware Requirement(Minimum)}{4}{subsection.1.6.2}%
+\contentsline {subsubsection}{Software Requirement}{4}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}Feasibility Study}{5}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Economic Feasibility}{5}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Operational Feasibility}{5}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Schedule Feasibility}{5}{subsection.1.7.3}%
+\contentsline {chapter}{\numberline {2}Litreature Review}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Related Research}{7}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Methodology}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Working Mechanism}{9}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Data Collection}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Data Preprocessing}{9}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Data Machine Learning Technique}{10}{subsection.3.1.3}%
+\contentsline {subsubsection}{Decision Tree}{10}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Split Dataset}{11}{subsection.3.1.4}%
+\contentsline {subsubsection}{Train Dataset Split}{12}{subsection.3.1.4}%
+\contentsline {subsubsection}{Validation Set Split}{12}{subsection.3.1.4}%
+\contentsline {subsubsection}{Test Set Split}{12}{subsection.3.1.4}%
+\contentsline {subsubsection}{Train Model}{12}{subsection.3.1.4}%
+\contentsline {subsubsection}{Model validation}{13}{subsection.3.1.4}%
+\contentsline {subsubsection}{Model Output}{13}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Development Model}{13}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Requirement Specification}{14}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Development and Implementation}{14}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Verification and Validation}{14}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Increments}{15}{subsection.3.2.4}%
+\contentsline {chapter}{\numberline {4}Result And Discussion}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Result}{16}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Discussion}{16}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Conclusion And Future Enhancements}{18}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusion}{18}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Future Enhancements}{18}{section.5.2}%
+\contentsline {chapter}{References}{19}{chapter*.11}%

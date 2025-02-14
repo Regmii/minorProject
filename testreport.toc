@@ -1,0 +1,56 @@
+\acswitchoff 
+\contentsline {chapter}{Approval Letter}{i}{chapter*.2}%
+\contentsline {chapter}{Acknowledgment}{ii}{chapter*.3}%
+\contentsline {chapter}{Abstract}{iii}{chapter*.4}%
+\contentsline {chapter}{List Of Figures}{vi}{chapter*.6}%
+\contentsline {chapter}{List Of Tables}{vii}{chapter*.7}%
+\contentsline {chapter}{Abbreviations}{viii}{chapter*.8}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Application Scope}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Features}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}System Requirements}{4}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Development Requirements}{4}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Deployment Requirements}{4}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}Feasibility Study}{4}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Economic Feasibility}{4}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Operational Feasibility}{5}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Schedule Feasibility}{5}{subsection.1.7.3}%
+\contentsline {chapter}{\numberline {2}Litreature Review}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Related Research}{6}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Methodology}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Working Mechanism}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Data Collection}{8}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Data Preprocessing}{9}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Machine Learning Technique}{9}{subsection.3.1.3}%
+\contentsline {subsubsection}{Decision Tree}{10}{subsection.3.1.3}%
+\contentsline {subsubsection}{Random Forest}{12}{equation.3.1.4}%
+\contentsline {subsubsection}{Support Vector Machine(SVM)}{13}{figure.caption.16}%
+\contentsline {subsubsection}{Multi-Layer Perceptron(MLP)}{13}{figure.caption.17}%
+\contentsline {subsection}{\numberline {3.1.4}Split Dataset}{15}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Train Model}{15}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Model validation}{16}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Model Output}{16}{subsection.3.1.7}%
+\contentsline {section}{\numberline {3.2}Development Model}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Requirement Specification}{16}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Development and Implementation}{17}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Verification and Validation}{17}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Increments}{17}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Evaluation Criteria}{18}{section.3.3}%
+\contentsline {section}{\numberline {3.4}System Diagrams}{18}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Usecase Diagram}{19}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}DFD}{19}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Class Diagram}{20}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Activity Diagram}{20}{subsection.3.4.4}%
+\contentsline {chapter}{\numberline {4}Result And Discussion}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Preprocessing}{21}{section.4.1}%
+\contentsline {subsubsection}{Data Cleaning}{22}{figure.caption.24}%
+\contentsline {subsubsection}{Feature Selection}{23}{figure.caption.25}%
+\contentsline {section}{\numberline {4.2}Model Training}{25}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Conclusion And Future Enhancements}{30}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusion}{30}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Future Enhancements}{30}{section.5.2}%
+\contentsline {chapter}{References}{32}{chapter*.35}%
+\contentsline {chapter}{Annex}{33}{chapter*.36}%

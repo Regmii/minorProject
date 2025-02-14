@@ -1,0 +1,42 @@
+Firstly, we trained Decision Tree with default parameters. 
+
+Even though its predictions were optimistic for the testing dataset, 
+It can be seen that the loss on the test was high.
+it was clearly overfitting.
+
+The model was complex due to it trying to fit all the training
+ dataset and couldn’t generalize well for new datas.
+ 
+It can be seen that the loss on the test was high.
+
+so for out thyroid dataset we perfomred SMOTE oversampling technique.
+*******synthetic minority oversampling technique
+
+another decision tree model was trained on balanced dataset.
+ This model was not complex thus could generalize to new unseen datas.
+ 
+ Other models for classifications were tested as svm mlp and rf.
+ 
+ however the performance for svm was subpar compared to other models where as other
+ models worked well on the dataset.
+ 
+We had to make sure the models was correctly classifying positive instancecs.
+
+
+Recall is the primary focus of criteria for our models(Low False-Negatives). 
+Generally, recall improves at the expense of precision or precision improves at the expense of recall
+
+While, balancing the dataset,
+recall was improved while trading-off precision, we had to make sure the trade-off in
+precision is not that large(High False-Positives).
+
+employed soft max voting ensembled model to generate best possible model.
+This ensembled model has high recall score while balancing out the precision tradeoff.
+
+After finalizing the ensemble model as our model to classify thyroids for early diagnosis,
+ we exported this model as a pickle file.
+ pickle file is made to
+predict the classifications of new datas entered by the final system’s user.
+
+We prepared a simple and interactive web-app through the use of streamlit for users to interact with
+the system.

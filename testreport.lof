@@ -1,0 +1,33 @@
+\acswitchoff 
+\noaddvspace 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Symptoms\relax }}{2}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Gantt Chart\relax }}{5}{figure.caption.12}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Block diagram of Thyroid Classification\relax }}{8}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Block diagram of Data Preprocessing\relax }}{9}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Decision Tree\relax }}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Working diagram of Random Forest\relax }}{12}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces SVM\relax }}{13}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces MLP structure\relax }}{14}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Incremental Development Model\relax }}{17}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Usecase Diagram\relax }}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces DFD diagram\relax }}{19}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Class diagram\relax }}{20}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Activity Diagram\relax }}{20}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Strip plot: Numerical Attributes vs Target\relax }}{22}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Feature Selection\relax }}{23}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Overfitting Decision Tree\relax }}{25}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Decision Tree on Balanced Dataset\relax }}{26}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Evaluation of Unbalanced Decision Tree\relax }}{27}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Evaluation of Balanced Decision Tree\relax }}{27}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Evaluation of Random Forest\relax }}{28}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Evaluation of MLP\relax }}{28}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Evaluation of Ensemble\relax }}{29}{figure.caption.34}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Result 1\relax }}{33}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Result 2\relax }}{33}{figure.caption.38}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Result 3\relax }}{34}{figure.caption.39}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Result 4\relax }}{34}{figure.caption.40}%
